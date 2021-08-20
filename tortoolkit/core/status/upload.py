@@ -89,7 +89,7 @@ class TGUploadTask(Status):
         msg += "<b>Files:- </b> {} of {} done.\n".format(
             self._uploaded_files, self._files
         )
-        msg += "<b>Using Engine:- </b> <code>TG Upload</code>\n"
+        msg += "<b>Using Engine:- </b> <b>TG Upload</b>\n"
         return msg
 
     def progress_bar(self, percentage):
