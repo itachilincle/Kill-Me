@@ -6,10 +6,10 @@ except:
         # Set true if its VPS
         IS_VPS = False
 
-        API_HASH = ""
-        API_ID = 0
-        BOT_TOKEN = ""
-        BASE_URL_OF_BOT = ""
+        API_HASH = "69a7b2287becd082dc541829d2883ecb"
+        API_ID = 6605193
+        BOT_TOKEN = "5275839505:AAHKZ6jdgC8RNUnN0B02D5o_jBlgeSa36OU"
+        BASE_URL_OF_BOT = "https://oceanthemepreview.herokuapp.com"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
